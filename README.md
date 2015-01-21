@@ -1,6 +1,8 @@
 Description
 ===========
 
+**!!! This project has been deprecated.  We recommend you search the [Chef Supermarket ](https://supermarket.chef.io/) for a supported alternative !!!**
+
 Installs nginx from package OR source code and sets up configuration
 handling similar to Debian's Apache2 scripts.
 
